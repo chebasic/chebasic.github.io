@@ -292,7 +292,7 @@ var ProfileComponent = /** @class */ (function () {
                 { value: 'cj.garciasan@gmail.com', icon: 'mail_outline' },
                 { value: '+34 619262412', icon: 'phone' },
                 { value: 'Quijorna, Madrid', icon: 'explore' },
-                { value: '', icon: 'language' },
+                { value: 'chebasic.github.io.', icon: 'language' },
             ]
         };
     }
