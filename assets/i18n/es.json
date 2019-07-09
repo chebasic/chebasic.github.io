@@ -1,0 +1,37 @@
+{
+  "profile" : {
+    "title" : "perfil",
+    "resume":  {
+      "1" : "Desarollador actualmente centrado en <b>front-end</b>, con 2+ años de experiencia desarollando interfaces de usuario, testing, profiling, centrado en el rendimiento y en la experiencia del usuario.",
+      "2" : "Entusiasta unix-user, de las nuevas tecnologías, frameworks y lenguajes de programación, lo que me ha llevado de forma autodidáctica al desarollo back-end con go-lang, django, ruby on rails.",
+      "3" : "Actualmente buscando ampliar mis conocimientos sobre aprendizaje automático y deep-learning."
+    }
+  },
+  "education" : {
+    "title" : "formación académica",
+    "school" : {
+      "title": "educación secundaria obligatoria",
+      "value": "IES Las Encinas, Madrid."
+    },
+    "high_school" : {
+      "title": "bachillerato tecnológico",
+      "value": "IES Las Encinas, Madrid."
+    },
+    "university" : {
+      "title": "grado en ingeniería informática",
+      "value": "Universidad Politécnica de Madrid.."
+    }
+  },
+  "experience" : {
+    "title": "experiencia laboral",
+    "job" : {
+      "1": {
+        "place": "desarollador front-end, <i>Radmas</i>",
+        "description" :"Desde 2016 hasta hoy mi papel en Radmas ha sido el de mejorar la experiencia de usuario, analizar y optimizar el rendimiento de diferentes proyectos <b>Angular</b>, y el encargado de implementar funcionalidades GIS (geographic information system) utilizando <b>OpenLayers</b> y <b>Leaflet</b>."
+      }
+    }
+  },
+  "skills" : {
+    "title":"habilidades"
+  }
+}

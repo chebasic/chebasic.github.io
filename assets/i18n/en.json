@@ -1,0 +1,37 @@
+{
+  "profile" : {
+    "title" : "perfil",
+    "resume":  {
+      "1" : "Developer currently focused on <b>front-end</b>, 2+ years of experience. Developing user interface, testing and profiling, looking for performance and user experience.",
+      "2" : "Enthusiast, of new technologies, frameworks, programming languages and unix nerd which has led me to back-end self-learning with go-lang, django and ruby on rails.",
+      "3" : "Currently looking for expand my machine learning and deep learning knowledge."
+    }
+  },
+  "education" : {
+    "title" : "education",
+    "school" : {
+      "title": "compulsory secondary education",
+      "value": "IES Las Encinas, Madrid."
+    },
+    "high_school" : {
+      "title": "upper secondary education",
+      "value": "IES Las Encinas, Madrid."
+    },
+    "university" : {
+      "title": "degree in computer engineering",
+      "value": "Polytechnic University of Madrid."
+    }
+  },
+  "experience" : {
+    "title": "work experience",
+    "job" : {
+      "1": {
+        "place": "front-end developer, radmas",
+        "description" :"From 2016 until today my role in Radmas has been to improve the user experience, analyze and optimize the performance of different <b>Angular</b> projects, and the one in charge of implementing GIS (geographic information system) features using <b>OpenLayers</b> and <b>Leaflet</b>."
+      }
+    }
+  },
+  "skills" : {
+    "title": "skills"
+  }
+}
